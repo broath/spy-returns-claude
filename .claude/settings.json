@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Read(//home/broath/.claude/skills/**)",
-      "Bash(curl -s \"https://api.github.com/repos/anthropics/claude-code/contents/skills\")"
-    ]
-  }
-}
