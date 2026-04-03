@@ -1,0 +1,27 @@
+# Go binaries
+spy-returns-claude
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go test artifacts
+*.test
+*.out
+coverage.html
+
+# Go build cache
+/vendor/
+
+# Generated data
+data.json
+response.html
+*.har
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config
+*.local.json
